@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" fill="none" role="img" aria-label="Adil Abbas Ghazi &#8212; Network Engineer.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" fill="none" role="img" aria-label="Jahangir Ahmad &#8212; backend engineer. Boot sequence hero.">
   <!-- 00 // BOOT &#8212; cinematic opening. terminal wake, giant type, drawn signature -->
   <defs>
     <radialGradient id="vig" cx=".5" cy=".42" r=".9">
@@ -76,7 +76,7 @@
 
   <!-- terminal boot sequence -->
   <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13">
-    <text x="70" y="68" fill="#34D399" mask="url(#typeCmd)">Adil Abbas Ghazi:~$ </text>
+    <text x="70" y="68" fill="#34D399" mask="url(#typeCmd)">kvbit@core:~$ ./init --profile jahangir</text>
     <text x="70" y="94" fill="#52525B" opacity="0">&#9656; loading identity ............... <tspan fill="#34D399">ok</tspan><animate attributeName="opacity" to="1" dur=".2s" begin="1.9s" fill="freeze"/></text>
     <text x="70" y="118" fill="#52525B" opacity="0">&#9656; mounting systems ............... <tspan fill="#34D399">ok</tspan><animate attributeName="opacity" to="1" dur=".2s" begin="2.4s" fill="freeze"/></text>
     <text x="70" y="142" fill="#52525B" opacity="0">&#9656; establishing uplink ............ <tspan fill="#34D399">ok</tspan><animate attributeName="opacity" to="1" dur=".2s" begin="2.9s" fill="freeze"/></text>
@@ -86,14 +86,14 @@
   <g opacity="0">
     <animate attributeName="opacity" to="1" dur=".9s" begin="3.3s" fill="freeze"/>
     <animateTransform attributeName="transform" type="translate" from="0 16" to="0 0" dur=".9s" begin="3.3s" fill="freeze"/>
-    <text x="62" y="330" fill="url(#titleG)" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="108" font-weight="800" letter-spacing="-4">Adil </text>
-    <text x="66" y="432" fill="none" stroke="#8B5CF6" stroke-width="1.6" stroke-opacity=".9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="92" font-weight="800" letter-spacing="12">Abbas Ghazi</text>
+    <text x="62" y="330" fill="url(#titleG)" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="108" font-weight="800" letter-spacing="-4">JAHANGIR</text>
+    <text x="66" y="432" fill="none" stroke="#8B5CF6" stroke-width="1.6" stroke-opacity=".9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="92" font-weight="800" letter-spacing="12">AHMAD</text>
   </g>
 
   <!-- philosophy + live cursor -->
   <g opacity="0">
     <animate attributeName="opacity" to="1" dur=".7s" begin="4.1s" fill="freeze"/>
-    <text x="66" y="502" fill="#A1A1AA" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15">&gt; Chasing the Packets.</text>
+    <text x="66" y="502" fill="#A1A1AA" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15">&gt; I build systems that outlive their author.</text>
     <rect x="472" y="488" width="9" height="17" fill="#22D3EE">
       <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.5;1" dur="1.1s" repeatCount="indefinite"/>
     </rect>
@@ -102,7 +102,7 @@
   <!-- role line -->
   <g opacity="0">
     <animate attributeName="opacity" to="1" dur=".7s" begin="4.4s" fill="freeze"/>
-    <text x="66" y="540" fill="#3F3F46" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" letter-spacing="3">NETWORK ENGINEER &#8212; 
+    <text x="66" y="540" fill="#3F3F46" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" letter-spacing="3">BACKEND ENGINEER &#8212; NODE.JS &#183; TYPESCRIPT &#183; POSTGRESQL</text>
   </g>
 
   <!-- signature, drawn -->
@@ -120,7 +120,7 @@
       <animate attributeName="opacity" to="1" dur=".3s" begin="6.4s" fill="freeze"/>
     </circle>
   </g>
-  <text x="927" y="580" fill="#3F3F46" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" letter-spacing="2" opacity="0">SIGNED &#8212; Ghazi<animate attributeName="opacity" to="1" dur=".5s" begin="6.6s" fill="freeze"/></text>
+  <text x="927" y="580" fill="#3F3F46" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" letter-spacing="2" opacity="0">SIGNED &#8212; KVBIT<animate attributeName="opacity" to="1" dur=".5s" begin="6.6s" fill="freeze"/></text>
 
   <!-- light trail -->
   <rect x="-420" y="596" width="420" height="2" fill="url(#sweepG)">
@@ -129,8 +129,3 @@
 
   <rect width="1200" height="600" fill="url(#vig)"/>
 </svg>
-
-<!---
-adilabbasghazi/adilabbasghazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
